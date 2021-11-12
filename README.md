@@ -38,11 +38,16 @@ Instructions:
 
 ### Demo of swarm distribution planning
 Instructions:
-1. Download the codes, and the demo program are in './demo of ' folder.
-2. Download the dataset and unzip it to the './DNN training' folder.
-3. Run './DNN training/training_orientation_angle.py' and './DNN training/training_shape_ratio.py' for the swarm shape planning and swarm orientation planning, respectively.
-4. Outputs: the parameters for the trained networks after each epoch will be saved in './DNN training/checkpoints_ratio' and './DNN training/checkpoints_angle' folders.
+1. Download the codes, and the demo program is in './demo of swarm distribution planning' folder.
+2. Run the file './demo of swarm distribution planning/demo.py'.
+3. Outputs: the generated planning results will be saved in './demo of swarm distribution planning/out' folder.
 
+
+### Demo of trajectory planning
+Instructions:
+1. Download the codes, and the demo program is in './demo of trajectory planning' folder.
+2. Run Matlab, and open the file './demo of trajectory planning/example_code_path_planning.m'.
+3. Outputs: the generated planning results will appear on the screen.
 
 
 
