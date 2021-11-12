@@ -1,7 +1,7 @@
 # Autonomous microrobot swarm navigation enabled by DL-based real-time distribution planning
 This repository provides information for implementing the DL-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
 
-# Table of contents
+## Table of contents
 1. [Software requirement](#Softwarerequirement)
 2. [Datasets](#Datasets)
 3. [Experiments](#Experiments)
