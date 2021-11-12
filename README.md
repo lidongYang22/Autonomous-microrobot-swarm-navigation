@@ -10,7 +10,7 @@ This repository provides information for implementing the deep learning (DL)-bas
 
 ## Software requirement
 
-### To run the DNN traning and demo programes, the following softwares are needed:
+### To run the DNN traning and distribution planning demo programes, the following softwares are needed:
 * Python 3.x  
 * keras  
 * tensorflow
@@ -18,6 +18,8 @@ This repository provides information for implementing the deep learning (DL)-bas
 * numpy
 * pandas
 
+### To run the trajectory planning demo program, the following softwares are needed:
+* Matlab (version 2016 and above)  
 
 # Reference
 Kai Fukami (UCLA), Romit Maulik (ANL), Nesar Ramachandra (ANL), Koji Fukagata (Keio), and Kunihiko Taira (UCLA), "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning," Nature Machine Intelligence, accepted, preprint: [arXiv:2101.00554](https://arxiv.org/abs/2101.00554), 2021
