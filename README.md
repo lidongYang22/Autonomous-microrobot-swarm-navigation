@@ -26,7 +26,7 @@ Sample codes includes:
 ## Dataset
 The dataset (~20 GB) used to train the two DNNs with extensive environment morphologies can be downloaded from:
 
-[Training dataset:](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155135830_link_cuhk_edu_hk/Er6k3hDr0hJIlXuB8HYu6L8Bs8NTN5_xK_-cJUo7VxhjCg?e=Qo8H8v).
+[Training dataset for the swarm shape planning and the swarm orientation planning](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155135830_link_cuhk_edu_hk/Er6k3hDr0hJIlXuB8HYu6L8Bs8NTN5_xK_-cJUo7VxhjCg?e=Qo8H8v)
 
 # Sample codes and demonstrations
 
