@@ -1,14 +1,14 @@
 # Autonomous microrobot swarm navigation enabled by DL-based real-time distribution planning
-This repository provides information for implementing the DL-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
+This repository provides information for implementing the deep learning (DL)-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
 
 ## Table of contents
-1. [Software requirement](#Softwarerequirement)
+1. [Software requirement](##Softwarerequirement)
 2. [Datasets](#Datasets)
 3. [Experiments](#Experiments)
 4. [Citation](#citation)
 
 
-# Software requirement
+## Software requirement
 
 # Reference
 Kai Fukami (UCLA), Romit Maulik (ANL), Nesar Ramachandra (ANL), Koji Fukagata (Keio), and Kunihiko Taira (UCLA), "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning," Nature Machine Intelligence, accepted, preprint: [arXiv:2101.00554](https://arxiv.org/abs/2101.00554), 2021
