@@ -2,21 +2,18 @@
 This repository provides information for implementing the deep learning (DL)-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
 
 ## Table of contents
-1. [Software requirement](##Softwarerequirement)
+1. [Software requirement](##Software requirement)
 2. [Dataset](#Dataset)
-3. [Sample codes and demonstrations](#[Samplecodesanddemonstrations)
+3. [Sample codes and demonstrations](#Sample codes and demonstrations)
 4. [Citation](#citation)
 
 
 ## Software requirement
 
 ### To run the DNN traning and distribution planning demo programes, the following softwares are needed:
-* Python 3.x  
-* keras  
-* tensorflow
-* sklearn
+* Python (version 3.6 and above)  
 * numpy
-* pandas
+* Pytorch
 
 ### To run the trajectory planning demo program, the following softwares are needed:
 * Matlab (version 2016 and above)  
