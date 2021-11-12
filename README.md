@@ -1,6 +1,5 @@
 # Autonomous microrobot swarm navigation enabled by DL-based real-time distribution planning
-Sample codes for training of Voronoi-tessellation-assisted convolutional neural network.  
-The present framework achieves robust global field reconstructions based on neural networks for moving and arbitrary number of sensors.
+This repository provides information for implementing the DL-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
 
 # Table of contents
 1. [Software requirement](#Softwarerequirement)
