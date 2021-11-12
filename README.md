@@ -9,8 +9,7 @@ Sample codes includes:
 ## Table of contents
 1. [Software requirement](##Softwarerequirement)
 2. [Dataset](##Dataset)
-3. [Sample codes and demonstrations](#Samplecodesanddemonstrations)
-4. [Citation](#citation)
+3. [Sample codes and demonstrations](##Samplecodesanddemonstrations)
 
 
 ## Software requirement
@@ -28,10 +27,10 @@ The dataset (~20 GB) used to train the two DNNs with extensive environment morph
 
 [Training dataset for the swarm shape planning and the swarm orientation planning](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155135830_link_cuhk_edu_hk/Er6k3hDr0hJIlXuB8HYu6L8Bs8NTN5_xK_-cJUo7VxhjCg?e=Qo8H8v)
 
-# Sample codes and demonstrations
+## Sample codes and demonstrations
 
-This repository contains
-
+### DNN training
+Instructions:
 1. Voronoi-CNN-cy.py (Example 1)
 2. Voronoi-CNN-NOAA.py (Example 2)
 3. Voronoi-CNN-ch2Dxysec.py (Example 3)
@@ -39,18 +38,5 @@ This repository contains
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 Training data for each example can be downloaded from Google Drive. Links of GD are provided in each sample code. 
 
-# Data sets
-Sample training data sets used in the present study are available as follows:
-
-[Example 1 (two-dimensional cylinder wake):](https://drive.google.com/drive/folders/1K7upSyHAIVtsyNAqe6P8TY1nS5WpxJ2c?usp=sharing),
-[Example 2 (NOAA sea surface temperature):](https://drive.google.com/drive/folders/1pVW4epkeHkT2WHZB7Dym5IURcfOP4cXu?usp=sharing),
-[Example 3 (turbulent channel flow):](https://drive.google.com/drive/folders/1xIY_jIu-hNcRY-TTf4oYX1Xg4_fx8ZvD?usp=sharing)).
 
 
-# Requirements
-* Python 3.x  
-* keras  
-* tensorflow
-* sklearn
-* numpy
-* pandas
