@@ -4,7 +4,7 @@ This repository provides information for implementing the deep learning (DL)-bas
 ## Table of contents
 1. [Software requirement](##Softwarerequirement)
 2. [Dataset](#Dataset)
-3. [Experiments](#Experiments)
+3. [Sample codes and demonstrations](#[Samplecodesanddemonstrations)
 4. [Citation](#citation)
 
 
@@ -23,8 +23,7 @@ This repository provides information for implementing the deep learning (DL)-bas
 
 # Dataset
 
-# Information
-Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl=en) (UCLA)
+# Sample codes and demonstrations
 
 This repository contains
 
