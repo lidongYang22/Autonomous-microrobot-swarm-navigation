@@ -42,14 +42,9 @@ Instructions:
 2. Run the file './demo of swarm distribution planning/demo.py'.
 3. Outputs: the generated planning results will be saved in './demo of swarm distribution planning/out' folder.
 
-
 ### Demo of trajectory planning
 Instructions:
 1. Download the codes, and the demo program is in './demo of trajectory planning' folder.
 2. Run Matlab, and open the file './demo of trajectory planning/example_code_path_planning.m'.
-3. Outputs: the generated planning results will appear on the screen.
-
-
-
-
-
+3. Run the file './demo of trajectory planning/example_code_path_planning.m' in Matlab.
+4. Outputs: the generated planning results will appear on the screen.
