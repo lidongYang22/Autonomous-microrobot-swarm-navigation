@@ -4,11 +4,11 @@ This repository provides information for implementing the deep learning (DL)-bas
 Sample codes includes:
 * Training the two DNNs for swarm distribution planning
 * Demonstration of the distribution planning in a channel environment
-* Demonstration of the trajectory planning
+* Demonstration of the trajectory planning in a channel environment
 
 ## Table of contents
 1. [Software requirement](##Softwarerequirement)
-2. [Dataset](#Dataset)
+2. [Dataset](##Dataset)
 3. [Sample codes and demonstrations](#Samplecodesanddemonstrations)
 4. [Citation](#citation)
 
@@ -23,7 +23,10 @@ Sample codes includes:
 ### To run the trajectory planning demo program, the following softwares are needed:
 * Matlab (version 2016 and above)  
 
-# Dataset
+## Dataset
+The dataset (~20 GB) used to train the two DNNs with extensive environment morphologies can be downloaded from:
+
+[Training dataset:](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155135830_link_cuhk_edu_hk/Er6k3hDr0hJIlXuB8HYu6L8Bs8NTN5_xK_-cJUo7VxhjCg?e=Qo8H8v).
 
 # Sample codes and demonstrations
 
