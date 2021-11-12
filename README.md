@@ -3,7 +3,7 @@ This repository provides information for implementing the deep learning (DL)-bas
 
 ## Table of contents
 1. [Software requirement](##Softwarerequirement)
-2. [Datasets](#Datasets)
+2. [Dataset](#Dataset)
 3. [Experiments](#Experiments)
 4. [Citation](#citation)
 
@@ -21,8 +21,7 @@ This repository provides information for implementing the deep learning (DL)-bas
 ### To run the trajectory planning demo program, the following softwares are needed:
 * Matlab (version 2016 and above)  
 
-# Reference
-Kai Fukami (UCLA), Romit Maulik (ANL), Nesar Ramachandra (ANL), Koji Fukagata (Keio), and Kunihiko Taira (UCLA), "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning," Nature Machine Intelligence, accepted, preprint: [arXiv:2101.00554](https://arxiv.org/abs/2101.00554), 2021
+# Dataset
 
 # Information
 Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl=en) (UCLA)
