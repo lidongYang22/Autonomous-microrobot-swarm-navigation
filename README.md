@@ -36,8 +36,15 @@ Instructions:
 3. Run './DNN training/training_orientation_angle.py' and './DNN training/training_shape_ratio.py' for the swarm shape planning and swarm orientation planning, respectively.
 4. Outputs: the parameters for the trained networks after each epoch will be saved in './DNN training/checkpoints_ratio' and './DNN training/checkpoints_angle' folders.
 
-Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
-Training data for each example can be downloaded from Google Drive. Links of GD are provided in each sample code. 
+### Demo of swarm distribution planning
+Instructions:
+1. Download the codes, and the demo program are in './demo of ' folder.
+2. Download the dataset and unzip it to the './DNN training' folder.
+3. Run './DNN training/training_orientation_angle.py' and './DNN training/training_shape_ratio.py' for the swarm shape planning and swarm orientation planning, respectively.
+4. Outputs: the parameters for the trained networks after each epoch will be saved in './DNN training/checkpoints_ratio' and './DNN training/checkpoints_angle' folders.
+
+
+
 
 
 
