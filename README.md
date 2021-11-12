@@ -3,7 +3,7 @@ Sample codes for training of Voronoi-tessellation-assisted convolutional neural 
 The present framework achieves robust global field reconstructions based on neural networks for moving and arbitrary number of sensors.
 
 # Table of contents
-1. [Software requirement](#Software requirement)
+1. [Software requirement](#Softwarerequirement)
 2. [Datasets](#Datasets)
 3. [Experiments](#Experiments)
 4. [Citation](#citation)
