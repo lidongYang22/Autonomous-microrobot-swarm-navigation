@@ -38,11 +38,13 @@ Instructions:
 
 ### Demo of swarm distribution planning
 Instructions:
-1. Download the codes, and the demo program is in './demo of swarm distribution planning' folder.
+1. Download the codes, and the demo program is in the './demo of swarm distribution planning' folder.
 2. Run the file './demo of swarm distribution planning/demo.py'.
-3. Outputs: the generated planning results will be saved in './demo of swarm distribution planning/out' folder.
+3. Outputs: the generated planning results will be saved in the './demo of swarm distribution planning/out' folder.
 
-If one want to test the method on different environment morphologies, just add the new environment image to './demo of trajectory planning' folder and change the image name in the program accordingly. In addition, the starting and targeted positions, and tunable parameters should be adjusted, if necessary.
+We also provide two additional environments located in the './demo of swarm distribution planning/obstacle environment' folder and the './demo of swarm distribution planning/obstacle and channel environment' folder. To test them, just add the environment files (image and trajecotry) to the './demo of swarm distribution planning' folder, and change the file names in the programe './demo of swarm distribution planning/demo.py' accordingly.
+
+If one want to test their own environments, just create the environment data (image and trajecotry) and use them in the './demo of swarm distribution planning/obstacle environment' folder by following the obove instructions.
 
 ### Demo of trajectory planning
 Instructions:
