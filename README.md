@@ -3,7 +3,7 @@ This repository provides information for implementing the deep learning (DL)-bas
 
 Sample codes includes:
 * Training the two DNNs for swarm distribution planning
-* Demonstration of the distribution planning in a channel environment
+* Demonstration of the distribution planning in different environments
 * Demonstration of the trajectory planning in a channel environment
 
 ## Table of contents
