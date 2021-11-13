@@ -42,6 +42,8 @@ Instructions:
 2. Run the file './demo of swarm distribution planning/demo.py'.
 3. Outputs: the generated planning results will be saved in './demo of swarm distribution planning/out' folder.
 
+If one want to test the method on different environment morphologies, just add the new environment image to './demo of trajectory planning' folder and change the image name in the program accordingly. In addition, the starting and targeted positions, and tunable parameters should be adjusted, if necessary.
+
 ### Demo of trajectory planning
 Instructions:
 1. Download the codes, and the demo program is in './demo of trajectory planning' folder.
@@ -49,4 +51,4 @@ Instructions:
 3. Run the file './demo of trajectory planning/example_code_path_planning.m' in Matlab.
 4. Outputs: the generated planning results will appear on the screen.
 
-If one want to test the method on different environment morphologies, just add the new image to './demo of trajectory planning' folder and change the image name in the program accordingly. in addition, the starting and target positions, and tunable parameters should be adjusted, if necessary.
+If one want to test the method on different environment morphologies, just add the new environment image to './demo of trajectory planning' folder and change the image name in the program accordingly. In addition, the starting and targeted positions, and tunable parameters should be adjusted, if necessary.
