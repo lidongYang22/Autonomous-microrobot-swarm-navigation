@@ -16,7 +16,7 @@ Sample codes includes:
 
 ### To run the DNN traning and distribution planning demo programes, the following softwares are needed:
 * Python (version 3.6 and above)  
-* numpy
+* NumPy
 * Pytorch
 
 ### To run the trajectory planning demo program, the following softwares are needed:
@@ -35,6 +35,8 @@ Instructions:
 2. Download the dataset and unzip it to the './DNN training' folder.
 3. Run './DNN training/training_orientation_angle.py' and './DNN training/training_shape_ratio.py' for the swarm shape planning and swarm orientation planning, respectively.
 4. Outputs: the parameters for the trained networks after each epoch will be saved in './DNN training/checkpoints_ratio' and './DNN training/checkpoints_angle' folders.
+
+If one want to test the method on different environment morphologies, just reaplace 
 
 ### Demo of swarm distribution planning
 Instructions:
