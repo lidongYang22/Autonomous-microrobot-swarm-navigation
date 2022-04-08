@@ -2,7 +2,7 @@
 This repository is related to:
 L. Yang, J. Jiang, X. Gao, Q. Wang, Q. Dou, L. Zhang, Autonomous Environment-Adaptive Microrobot Swarm Navigation Enabled by Deep Learning-based Real-Time Distribution Planning, <b> Nature Machine Intelligence </b>, 2022, Accept.
 
-provides information for implementing the deep learning (DL)-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
+It provides information for implementing the deep learning (DL)-based method for real-time microrobot swarm distribution planning and the method for real-time trajectory planning, both applicable for unstructured environments.
 
 [![DOI](https://zenodo.org/badge/427215873.svg)](https://zenodo.org/badge/latestdoi/427215873)
 
