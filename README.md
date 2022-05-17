@@ -1,7 +1,7 @@
 # Autonomous microrobot swarm navigation enabled by DL-based real-time distribution planning
 This repository is related to:
 
-L. Yang, J. Jiang, X. Gao, Q. Wang, Q. Dou, L. Zhang, [Autonomous Environment-Adaptive Microrobot Swarm Navigation Enabled by Deep Learning-based Real-Time Distribution Planning], <b> Nature Machine Intelligence </b>, 2022, Accept.
+L. Yang, J. Jiang, X. Gao, Q. Wang, Q. Dou, L. Zhang, [Autonomous Environment-Adaptive Microrobot Swarm Navigation Enabled by Deep Learning-based Real-Time Distribution Planning], <b> Nature Machine Intelligence </b>, 2022.
 
 [Autonomous Environment-Adaptive Microrobot Swarm Navigation Enabled by Deep Learning-based Real-Time Distribution Planning]:https://www.nature.com/articles/s42256-022-00482-8
 
